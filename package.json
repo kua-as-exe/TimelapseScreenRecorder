@@ -1,0 +1,26 @@
+{
+  "name": "timelapse-recorder",
+  "version": "1.0.0",
+  "description": "A basic nodejs and bash script to handle ffmpeg recording with timelapse",
+  "main": "record.js",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "screenshot-desktop": "^1.12.6",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeArreolaS/TimelapseScreenRecorder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JorgeArreolaS/TimelapseScreenRecorder/issues"
+  },
+  "homepage": "https://github.com/JorgeArreolaS/TimelapseScreenRecorder#readme"
+}
